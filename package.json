@@ -9,6 +9,7 @@
     "aws-sdk": "latest",
     "body-parser": "latest",
     "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
     "ejs": "latest",
     "express": "latest",
     "install": "^0.12.1",
