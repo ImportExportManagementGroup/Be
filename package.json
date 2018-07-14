@@ -6,10 +6,18 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "ejs": "latest",
     "aws-sdk": "latest",
-    "express": "latest",
     "body-parser": "latest",
-    "mysql": "latest"
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "ejs": "latest",
+    "express": "latest",
+    "install": "^0.12.1",
+    "jade": "^1.11.0",
+    "morgan": "^1.9.0",
+    "mysql": "latest",
+    "node-fetch": "^2.1.2",
+    "npm": "^6.1.0",
+    "react-router-dom": "^4.3.1"
   }
 }
